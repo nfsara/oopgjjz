@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset = "UTF-8">
+	<title>SekiPlex</title>
+	<link rel="stylesheet" href="styles.css">	
+</head>
+
+<body class="background-image">
+	<h1 class="font1 center white">SekiPlex</h1>
+	<h2 class="white">Nasi bioskopi</h2>
+	<ul>
+	<li class="font2 white">SekiPLex Novi Sad TC Sekinada</li>
+	<p style="float:left" class="font3 purple back-color">
+		<img style="float:right" src="sekiplexns.jpg" alt="SekiPlex Sekinada">
+		„Боже правде“ је званична химна Републике Србије, дефинисана чланом 7 Устава.[1] „Боже правде“ је такође била химна Кнежевине Србије и Краљевине Србије до 1918. године, када је створена Краљевина Срба, Хрвата и Словенаца. Предложена верзија текста као химне одређена је законом 11. маја 2009.[2] Изворна песма настала је 1872. године, када је Јован Ђорђевић, инспирисан сатиричном Змајевом Народном химном, написао речи на музику Даворина Јенка. Композиција Јозефа Хајдна Царска химна имала је великог утицаја на мелодију. 
+	    <br> <br>
+		Песма је представљала завршницу позоришне представе „Маркова сабља“, осмишљене поводом пунолетства Милана Обреновића. Огромна популарност речи и мелодије допринеле су да ова песма постане званична српска државна химна. Деведесетих химне непрестано су се мењале са променом државног уређења и владара
+        <br> <br>
+        Након Мајског преврата, химна је поново уведена 1909, на рођендан краља Петра 29. јуна (12. јула)[4]. За време Краљевине Срба, Хрвата и Словенаца (касније Краљевине Југославије), „Боже правде“ је представљала део тадашње државне химне.
+	</p>
+	
+	<li class="font2 white">SekiPlex+ TC Galerija</li>
+	<p style="float:left" class="font3 red back-color">
+		<img style="float:right" src="sekiplexgal.jpg" alt="sekiplex galerija">
+        Задње ноге су им знатно дуже од предњих, на којим се налази 4 или 5 прстију, између прстију се налазе тзв. пловне кожице које омогућавају кретање у води. Задње ноге су прилагођене за тзв. катапултарни скок. Највећи број жаба полаже хиљаде јаја у води, где ларве зване пуноглавци заврше ларвени период и метаморфозу.[3] Хране се мушицама, комарцима итд. Такође постоје отровне жабе које су „обојене“ живим бојама. Отров може усмртити мањег грабљивца ако је поједе, а неке жабе садрже толико отрова да чак могу усмртити човека. Индијанци се служе њиховим отровом за копља и стрелице.
+	    <br> <br>
+        Жлезде у кожи жабе налазе се у епидермалоном слоју који се зове усмина[5]. Усмина је испуњена везивним ткивом, а у њој се налазе пигментне ћелије (хроматофори), мишићна влакна и жлезде. Две врсте жлезда се налазе код правих жаба, а то су слузне (мукозне) и ледене жлезде[6]. Хроматофори садрже пигментна зрнца различитих боја: жуте, црвене, смеђе
+	    <br> <br>
+	    Одрасле јединке немају унутрашње ни спољашње шкрге. Оне се налазе искључиво у постембрионалном развоју, у стадијуму пуноглавца, на спољној страни животиње, као привесци, а служе као снабдевање крви кисеоником. Одрасле жабе дишу преко коже, јер су им плућа слабо развијена.
+	</p>
+	<li class="font2 white">SekiPlex Arena</li>
+	<p style="float:left" class="font3 blue back-color">
+		<img style="float:right" src="sekiplexar.jpg" alt="sekiplex arena">
+        Promesajte jaja, jourt, vodu ,ulja i so u jednolicnu masu. Prvo malo izmutite jaja, pa onda dodajte ostalo.
+        <br> <br>
+	    Rasposli se jedna kora na radni sto i poprska se ravnomerno sa malo sitnog sira. Preko ove se stavi druga kora i opet se poprska sa malo sitnog sira, pa treca i sve tako dok se kore i sir ne potrose. Znaci, sve kore jedna preko druge.
+	    <br> <br>
+	    Onda se uviju u rolat i podele sa malim zasecima na deset jednakih delova. Ja to radim na dva prsta rastojanje i izagju deset parceta. Onga se ostrim nozem iseku parcici. Kako isecete parce, tako ga stavite u pleh, sa sirom stranom prema dole. Poregjajte sve parcice jedan do drugoga u dva reda, ako je plek dugacak. Ako je okrugli, onda redite naokolo i zavsavate u sredini.
+	</p>
+	</ul>
+
+	<h2 class="white">O nama</h2>
+	<p class= "font3 green back-color">
+	Biti najbolji i najveći bioskopski lanac u regiji koji će biti standard i merilo kvaliteta i profesionalnosti u svim segmentima poslovanja - posetiocima prvi izbor za bioskop, zaposlenima poželjan poslodavac, poslovnim subjektima pouzdan partner i društveno odgovorna kompanija.
+	</p>
+</body>
+
+</html

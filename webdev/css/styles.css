@@ -1,0 +1,39 @@
+.center {
+	text-align: center;
+}
+.font1{
+	font-family:serif
+}
+.font2{
+	font-family:sans-serif;
+	font-size: large;
+}
+.font3{
+	font-family:serif;
+}
+.green{
+	color:forestgreen
+}
+.red{
+	color:indianred
+}
+.blue{
+	color:darkblue
+}
+.orange{
+	color:darkorange
+}
+.purple{
+	color:rebeccapurple
+}
+.white{
+	color:white
+}
+.back-color{
+	background-color: rgba(255, 255, 255, 0.65);
+}
+.background-image{
+	background-image: url('sekiplex.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+}
